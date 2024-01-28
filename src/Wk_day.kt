@@ -1,0 +1,3 @@
+enum class Wk_day {
+    MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY
+}
